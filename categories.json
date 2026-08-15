@@ -12,7 +12,7 @@
     "url": "https://www.gotou-lafertebernard.fr/amenagement/c/0"
   },
   {
-    "name": "Ameublement décoration",
+    "name": "Ameublement - décoration",
     "url": "https://www.gotou-lafertebernard.fr/ameublement-decoration/c/0"
   },
   {
@@ -132,7 +132,7 @@
     "url": "https://www.gotou-lafertebernard.fr/laverie-automatique/c/0"
   },
   {
-    "name": "Librairie - papéterie",
+    "name": "Librairie - Papéterie",
     "url": "https://www.gotou-lafertebernard.fr/librairie/c/0"
   },
   {
@@ -188,7 +188,7 @@
     "url": "https://www.gotou-lafertebernard.fr/centre-hospitalier/c/0"
   },
   {
-    "name": "Maison de Retraite",
+    "name": "EHPAD",
     "url": "https://www.gotou-lafertebernard.fr/maison-de-retraite/c/0"
   },
   {
@@ -208,7 +208,7 @@
     "url": "https://www.gotou-lafertebernard.fr/masseur-kinesitherapeute/c/0"
   },
   {
-    "name": "Médecine du Travail",
+    "name": "Médecine du travail",
     "url": "https://www.gotou-lafertebernard.fr/medecine-du-travail/c/0"
   },
   {
@@ -224,7 +224,7 @@
     "url": "https://www.gotou-lafertebernard.fr/osteopathe/c/0"
   },
   {
-    "name": "Pédicure",
+    "name": "Pédicure - Podologue",
     "url": "https://www.gotou-lafertebernard.fr/pedicure/c/0"
   },
   {
@@ -288,7 +288,7 @@
     "url": "https://www.gotou-lafertebernard.fr/conseil-expertise/c/2"
   },
   {
-    "name": "Diagnostic Immobilier",
+    "name": "Diagnostic immobilier",
     "url": "https://www.gotou-lafertebernard.fr/conseil-expertise/c/3"
   },
   {
@@ -300,35 +300,58 @@
     "url": "https://www.gotou-lafertebernard.fr/conseil-expertise/c/5"
   },
   {
-    "name": "Crèche",
-    "url": "https://www.gotou-lafertebernard.fr/creche-scolaire/c/1"
-  },
-  {
-    "name": "Maternelle",
-    "url": "https://www.gotou-lafertebernard.fr/creche-scolaire/c/2"
-  },
-  {
-    "name": "Primaire",
-    "url": "https://www.gotou-lafertebernard.fr/creche-scolaire/c/3"
-  },
-  {
-    "name": "Élémentaire",
-    "url": "https://www.gotou-lafertebernard.fr/creche-scolaire/c/4"
-  },
-  {
-    "name": "Collège",
-    "url": "https://www.gotou-lafertebernard.fr/creche-scolaire/c/5"
-  },
-  {
-    "name": "Lycée",
-    "url": "https://www.gotou-lafertebernard.fr/creche-scolaire/c/6"
-  },
-  {
     "name": "Emploi",
     "url": "https://www.gotou-lafertebernard.fr/emploi-formation/c/1"
   },
   {
     "name": "Formation",
     "url": "https://www.gotou-lafertebernard.fr/emploi-formation/c/2"
+  },
+  {
+    "name": "Associations culturelles",
+    "url": "https://www.gotou-lafertebernard.fr/associations/c/1"
+  },
+  {
+    "name": "Associations loisirs",
+    "url": "https://www.gotou-lafertebernard.fr/associations/c/2"
+  },
+  {
+    "name": "Associations solidaires",
+    "url": "https://www.gotou-lafertebernard.fr/associations/c/3"
+  },
+  {
+    "name": "Associations sportives",
+    "url": "https://www.gotou-lafertebernard.fr/associations/c/4"
+  },
+  {
+    "name": "Taxi",
+    "url": "https://www.gotou-lafertebernard.fr/transport/c/1"
+  },
+  {
+    "name": "Train",
+    "url": "https://www.gotou-lafertebernard.fr/transport/c/2"
+{
+  "name": "Artisans",
+  "url": "https://www.gotou-lafertebernard.fr/artisan/c/0"
+},
+{
+  "name": "Associations",
+  "url": "https://www.gotou-lafertebernard.fr/association-1/c/0"
+},
+{
+  "name": "Conseils - Expertises",
+  "url": "https://www.gotou-lafertebernard.fr/conseil-expertise/c/0"
+},
+{
+  "name": "Emploi - Formation",
+  "url": "https://www.gotou-lafertebernard.fr/emploi-formation/c/0"
+},
+{
+  "name": "Santé",
+  "url": "https://www.gotou-lafertebernard.fr/sante"
+},
+{
+  "name": "Transport",
+  "url": "https://www.gotou-lafertebernard.fr/transport/c/0" 
   }
 ]
